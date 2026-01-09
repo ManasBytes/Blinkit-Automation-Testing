@@ -31,21 +31,37 @@ Checkout and payment are intentionally excluded, as Blinkit restricts order comp
 
 # Project Structure
 blinkit-selenium-automation/
+
 │
+
 ├── pages/
+
 │   ├── constants.py
+
 │   ├── login_page.py
+
 │   ├── location_page.py
+
 │   ├── home_page.py
+
 │   ├── fruits_vegetables_page.py
+
 │   ├── cart_page.py
+
 │
+
 ├── test_results/
+
 │   └── execution_result.xlsx
+
 │
+
 ├── run.py
+
 ├── requirements.txt
+
 └── README.md
+
 
 ## Folder Explanation
 <ul> 
