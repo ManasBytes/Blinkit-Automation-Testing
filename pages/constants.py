@@ -1,0 +1,4 @@
+BLINKIT_URL = "https://www.blinkit.com"
+PHONE_NUMBER = "9439411882"
+ITEMS_TO_ADD = 10
+QUANTITY_PER_ITEM = 2
